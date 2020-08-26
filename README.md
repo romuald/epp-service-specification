@@ -992,7 +992,7 @@ The status codes applying to domain are described in the addendum: Status Codes:
 			</domain:create>
 		</create>
 		<extension>
-			<dkhm:orderconfirmationToken xmlns:dkhm="urn:dkhm:params:xml:ns:dkhm-3.0">testtoken</dkhm:orderconfirmationToken>
+			<dkhm:orderconfirmationToken xmlns:dkhm="urn:dkhm:params:xml:ns:dkhm-3.0">1598434084</dkhm:orderconfirmationToken>
 		</extension>
 		<clTRID>92724843f12a3e958588679551aa988d</clTRID>
 	</command>
